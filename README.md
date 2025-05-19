@@ -1,6 +1,8 @@
 # PMU_sourceSpecificScraper_publicTemplate
 <b>Project Category:</b> Partisianship_Messaging_Understanding <br>
-<b>Mission:</b> develop news-source specific article scrapers. <br><br>
+<b>Mission:</b> develop news-source specific article scrapers. <br>
+<b>Developers:</b> Roberto Vargas, PhD <br>
+<b>Note:</b> This is a generic template. Source specific templates are currently private. Please email robertj.vargas@gmail.com for further inquiries. <br><br>
 
 <b>Overview:</b><br>
 [Insert .py file]: This .py script is meant to executed in parallel with other source-specific scrapers as a batch throughout the day. This template is deigned to be run every 7 hours. <br><br>
